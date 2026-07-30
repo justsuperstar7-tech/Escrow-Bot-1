@@ -1,6 +1,6 @@
 # Bot Configuration
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = ["YOUR_TELEGRAM_USER_ID"]  # List of admin user IDs
+BOT_TOKEN = "8983002553:AAFDcCK2zOD3-hGaLWRNJFmzAyQNJP4sTBc"
+ADMIN_IDS = ["8603893462"]  # List of admin user IDs
 
 # Channel and Provider Names
 CHANNEL_USERNAME = "CertifiedDeal"  # @CertifiedDeal
